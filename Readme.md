@@ -39,3 +39,5 @@ Here are two screenshots of this application.
 
 ![screenshot2](https://github.com/chen-star/Move-Planner/raw/master/images/3.png)
 
+More functions will be added!...
+
